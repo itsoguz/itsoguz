@@ -9,6 +9,8 @@ Projects:
 
 [Snake Game](https://github.com/itsoguz/cppSnakeGame)
 
+[MyVector Class](https://github.com/itsoguz/cppTutorialOOP/tree/main/004MyVectorClass)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
