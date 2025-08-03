@@ -1,7 +1,7 @@
 ## Hi there 👋
 Projects:
 
-[TCP Server](https://github.com/itsoguz/cppTutorial2/301tcpServer)
+[TCP Server](https://github.com/itsoguz/cppTutorial2/tree/main/301tcpServer)
 
 [TCP Client](https://github.com/itsoguz/cppTutorial2/302tcpClient)
 
