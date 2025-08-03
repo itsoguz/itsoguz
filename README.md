@@ -3,9 +3,9 @@ Projects:
 
 [TCP Server](https://github.com/itsoguz/cppTutorial2/tree/main/301tcpServer)
 
-[TCP Client](https://github.com/itsoguz/cppTutorial2/302tcpClient)
+[TCP Client](https://github.com/itsoguz/cppTutorial2/tree/main/302tcpClient)
 
-[Shopping List](https://github.com/itsoguz/cppTutorial2/030fstream)
+[Shopping List](https://github.com/itsoguz/cppTutorial2/tree/main/030fstream)
 
 [Snake Game](https://github.com/itsoguz/cppSnakeGame)
 
