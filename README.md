@@ -1,4 +1,13 @@
 ## Hi there 👋
+Projects:
+
+[TCP Server](https://github.com/itsoguz/cppTutorial2/301tcpServer)
+
+[TCP Client](https://github.com/itsoguz/cppTutorial2/302tcpClient)
+
+[Shopping List](https://github.com/itsoguz/cppTutorial2/030fstream)
+
+[Snake Game](https://github.com/itsoguz/cppSnakeGame)
 
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
