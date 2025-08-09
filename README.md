@@ -11,6 +11,10 @@ Projects:
 
 [MyVector Class](https://github.com/itsoguz/cppTutorialOOP/tree/main/004MyVectorClass)
 
+[Password Manager](https://github.com/itsoguz/qtPass)
+
+📫 How to reach me: postaoguz@gmail.com
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
