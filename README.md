@@ -13,6 +13,8 @@ Projects:
 
 [Password Manager](https://github.com/itsoguz/qtPass)
 
+[Filter Camera Application](https://github.com/itsoguz/qtFilterCam)
+
 📫 How to reach me: postaoguz@gmail.com
 
 <!--
