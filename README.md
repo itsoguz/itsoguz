@@ -15,6 +15,8 @@ Projects:
 
 [Filter Camera Application](https://github.com/itsoguz/qtFilterCam)
 
+[Notes Maker Application](https://github.com/itsoguz/qtNotes)
+
 📫 How to reach me: postaoguz@gmail.com
 
 <!--
