@@ -17,6 +17,8 @@ Projects:
 
 [Notes Maker Application](https://github.com/itsoguz/qtNotes)
 
+[Screen Recorder](https://github.com/itsoguz/qtRec)
+
 📫 How to reach me: postaoguz@gmail.com
 
 <!--
