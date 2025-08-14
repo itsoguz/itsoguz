@@ -1,25 +1,36 @@
 ## Hi there 👋
+
+📫 How to reach me: postaoguz@gmail.com
+
 Projects:
+
+Networking:
 
 [TCP Server](https://github.com/itsoguz/cppTutorial2/tree/main/301tcpServer)
 
 [TCP Client](https://github.com/itsoguz/cppTutorial2/tree/main/302tcpClient)
 
-[Shopping List](https://github.com/itsoguz/cppTutorial2/tree/main/030fstream)
-
-[Snake Game](https://github.com/itsoguz/cppSnakeGame)
+Console App:
 
 [MyVector Class](https://github.com/itsoguz/cppTutorialOOP/tree/main/004MyVectorClass)
 
-[Password Manager](https://github.com/itsoguz/qtPass)
+[Shopping List](https://github.com/itsoguz/cppTutorial2/tree/main/030fstream)
 
-[Filter Camera Application](https://github.com/itsoguz/qtFilterCam)
+OpenGL / SDL / Vulkan / Unreal Engine:
+
+[Snake Game](https://github.com/itsoguz/cppSnakeGame)
+
+[Jet Game](https://github.com/itsoguz/jetGame)
+
+GUI App:
+
+[Password Manager](https://github.com/itsoguz/qtPass)
 
 [Notes Maker Application](https://github.com/itsoguz/qtNotes)
 
-[Screen Recorder](https://github.com/itsoguz/qtRec)
+[Filter Camera Application](https://github.com/itsoguz/qtFilterCam)
 
-📫 How to reach me: postaoguz@gmail.com
+[Screen Recorder](https://github.com/itsoguz/qtRec)
 
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
