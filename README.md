@@ -32,6 +32,8 @@ GUI App:
 
 [Screen Recorder](https://github.com/itsoguz/qtRec)
 
+[Alarm Application](https://github.com/itsoguz/qtAlarm)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
