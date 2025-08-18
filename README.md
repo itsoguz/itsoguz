@@ -34,6 +34,8 @@ GUI App:
 
 [Alarm Application](https://github.com/itsoguz/qtAlarm)
 
+[World Time App](https://github.com/itsoguz/qtTimeZones)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
