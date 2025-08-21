@@ -36,6 +36,8 @@ GUI App:
 
 [World Time App](https://github.com/itsoguz/qtTimeZones)
 
+[Schedule Keeper App](https://github.com/itsoguz/qtScheduler)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
