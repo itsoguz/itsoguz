@@ -22,6 +22,8 @@ OpenGL / SDL / Vulkan / Unreal Engine:
 
 [Jet Game](https://github.com/itsoguz/jetGame)
 
+[Dice Game](https://github.com/itsoguz/DiceGame)
+
 GUI App:
 
 [Password Manager](https://github.com/itsoguz/qtPass)
