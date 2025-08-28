@@ -16,7 +16,7 @@ Console App:
 
 [Shopping List](https://github.com/itsoguz/cppTutorial2/tree/main/030fstream)
 
-OpenGL / SDL / Vulkan / Unreal Engine:
+OpenGL / Vulkan / SDL / Unreal Engine:
 
 [Snake Game](https://github.com/itsoguz/cppSnakeGame)
 
@@ -41,6 +41,8 @@ GUI App:
 [Schedule Keeper App](https://github.com/itsoguz/qtScheduler)
 
 [Audio Recorder](https://github.com/itsoguz/qtAudioRec)
+
+[Stopwatch & Timer](https://github.com/itsoguz/StopwatchTimer)
 
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
