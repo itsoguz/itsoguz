@@ -44,6 +44,8 @@ GUI App:
 
 [Stopwatch & Timer](https://github.com/itsoguz/StopwatchTimer)
 
+[Image to Text Convertor](https://github.com/itsoguz/ImageToText)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
