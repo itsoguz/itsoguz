@@ -24,6 +24,8 @@ OpenGL / Vulkan / SDL / Unreal Engine:
 
 [Dice Game](https://github.com/itsoguz/DiceGame)
 
+[Pong Game](https://github.com/itsoguz/sdlPong)
+
 GUI App:
 
 [Password Manager](https://github.com/itsoguz/qtPass)
