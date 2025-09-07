@@ -48,6 +48,8 @@ GUI App:
 
 [Image to Text Convertor](https://github.com/itsoguz/ImageToText)
 
+[Clock](https://github.com/itsoguz/qtClock)
+
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
