@@ -50,7 +50,9 @@ GUI App:
 
 [Clock](https://github.com/itsoguz/qtClock)
 
-[.mp4 to .mp3 Convertor](https://github.com/itsoguz/mp4tomp3)
+[mp4 to mp3 Convertor](https://github.com/itsoguz/mp4tomp3)
+
+[Calendar App](https://github.com/itsoguz/qtCalendar)
 
 <!--
 **itsoguz/itsoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
