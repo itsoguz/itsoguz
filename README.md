@@ -26,6 +26,8 @@ OpenGL / Vulkan / SDL / Unreal Engine:
 
 [Pong Game](https://github.com/itsoguz/sdlPong)
 
+[Tic Tac Toe](https://github.com/itsoguz/ticTacToe)
+
 GUI App:
 
 [Password Manager](https://github.com/itsoguz/qtPass)
